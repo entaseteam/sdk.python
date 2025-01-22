@@ -5,6 +5,8 @@
 
 This library provides easy access to Entase API for Python language.
 
+![Banner](banner.jpg)
+
 ## Requirements
 Python 3.7 or later with the following packages:
 - `requests` - For HTTP communication
